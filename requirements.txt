@@ -133,7 +133,7 @@ tqdm==4.64.1
 traitlets==5.8.0
 typing_extensions==4.4.0
 -e git+https://github.com/ultralytics/ultralytics@3c4de102f6d97a1a01e0169e203c63badce22a1b#egg=ultralytics
-urllib3==1.26.13
+urllib3==1.26.18
 wandb==0.13.7
 watchdog==2.2.1
 wcwidth==0.2.5
